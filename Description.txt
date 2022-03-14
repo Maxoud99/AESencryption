@@ -1,1 +1,2 @@
-
+An implementation to the well-known AES algorithm written in x86 assembly
+language to make the algorithm quick yet simple.
